@@ -79,10 +79,6 @@ My most notable project is a fully functional e-commerce website, which I develo
 
 ---
 
-## 📫 Contact
-
-Feel free to reach out for collaboration, project inquiries, or just to connect about technology and development!
-
 
 ## 📫 Contact
 
